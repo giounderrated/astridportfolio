@@ -89,17 +89,15 @@ li {
   font-size: 1rem;
 }
 
-.wrapper {
-  width: 100vw;
+.animation {
   display: flex;
-  justify-content: center;
   align-items: center;
-  height: 100vh;
+  justify-content: center;
 }
 
 #icon {
   cursor: pointer;
-  width: 15em;
+  height: 20rem;
 }
 
 /* Navbar */
