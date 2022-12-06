@@ -89,6 +89,19 @@ li {
   font-size: 1rem;
 }
 
+.wrapper {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#icon {
+  cursor: pointer;
+  width: 15em;
+}
+
 /* Navbar */
 
 header {
